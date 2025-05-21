@@ -24,7 +24,7 @@ Creating New User: <br/>
 <img src="https://i.imgur.com/M6fk9Fl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-List of Uusers Created:  <br/>
+List of Users Created:  <br/>
 <img src="https://i.imgur.com/PDKpCx5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -32,7 +32,7 @@ List of Uusers Created:  <br/>
 <img src="https://i.imgur.com/weEKnsB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Group Memberships configured:  <br/>
+Group Memberships Configured:  <br/>
 <img src="https://i.imgur.com/lfePHHV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -40,7 +40,7 @@ Client login Success :  <br/>
 <img src="https://i.imgur.com/nUY6SML.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- GPO test result on client:  <br/>
+ GPO Test Result on Client:  <br/>
 <img src="https://i.imgur.com/fR3tJfh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
